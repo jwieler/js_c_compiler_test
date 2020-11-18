@@ -1,1 +1,4 @@
-To Run: `$ node test.js`
+To Run:
+`$ npm install`
+`$ node test.js`
+

@@ -1,1 +1,1 @@
-# js_c_compiler_test
+INIT
